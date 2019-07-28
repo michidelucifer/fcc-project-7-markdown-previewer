@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+#editor {
+    width: 80%;
+    height: 300px;
+    display: block;
+    margin: auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#preview {
+    width: 80%;
+    margin: 20px auto;
+    background-color: lightblue;
+    padding: 10px;
+    box-sizing: border-box;
+}
